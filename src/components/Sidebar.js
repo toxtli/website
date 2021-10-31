@@ -71,15 +71,6 @@ export class Sidebar extends Component {
             })}
           </Scrollspy>
         </div>
-        <small className="d-none d-lg-block text-white">
-          Generated with the{' '}
-          <a
-            href={`${config.footerUrl}`}
-            className="text-light sidebar-footer-link"
-          >
-            Ops Platform
-          </a>
-        </small>
       </nav>
     );
   }

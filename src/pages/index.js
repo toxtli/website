@@ -189,12 +189,6 @@ const IndexPage = () => (
     </div>
     <div className="container w-100">
       <p className="text-center">
-        <small className="d-lg-none d-xl-none">
-          Generated with the{' '}
-          <a href={`${config.footerUrl}`} className="">
-            Ops Platform
-          </a>
-        </small>
       </p>
     </div>
   </Layout>

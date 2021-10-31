@@ -1,13 +1,13 @@
-const REPOSITORY = 'gatsby-resume-template';
-const FIRST_NAME = 'Jane';
-const LAST_NAME = 'Doe';
-const GITHUB_USERNAME = 'awesome-developer';
-const TWITTER_USERNAME = 'awesome-developer';
-const LINKEDIN_USERNAME = 'awesome-developer';
-const PHONE_NUMBER = '604-XXX-XXXX';
-const ADDRESS = 'Vancouver';
-const EMAIL = 'jane.doe@email.com';
-const FOOTER_URL = 'https://www.cto.ai';
+const REPOSITORY = 'website';
+const FIRST_NAME = 'Carlos';
+const LAST_NAME = 'Toxtli';
+const GITHUB_USERNAME = 'toxtli';
+const TWITTER_USERNAME = 'ctoxtli';
+const LINKEDIN_USERNAME = 'toxtli';
+const PHONE_NUMBER = '650-564-4482';
+const ADDRESS = 'Boston';
+const EMAIL = 'me@carlostoxtli.com';
+const FOOTER_URL = 'https://www.carlostoxtli.com';
 
 const BIO = `
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
