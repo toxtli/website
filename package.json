@@ -1,0 +1,51 @@
+{
+  "name": "gatsby-starter-resume",
+  "version": "0.0.1",
+  "description": "CTO.ai Gatsby.js Resume starter template",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cto-ai/gatsby-resume-template.git"
+  },
+  "author": {
+    "name": "CTO.ai",
+    "email": "support@cto.ai"
+  },
+  "dependencies": {
+    "gatsby": "^2.22.3",
+    "gatsby-plugin-manifest": "^2.4.8",
+    "gatsby-plugin-offline": "^3.2.6",
+    "gatsby-plugin-react-helmet": "^3.3.2",
+    "gatsby-plugin-sass": "^2.3.2",
+    "gh-pages": "^2.0.1",
+    "node-sass": "^4.14.1",
+    "prettier": "^2.0.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.0.0",
+    "react-scrollspy": "^3.4.2",
+    "rimraf": "^3.0.2",
+    "smoothscroll-polyfill": "^0.4.4"
+  },
+  "scripts": {
+    "develop": "NODE_ENV=development gatsby develop",
+    "build": "npm run clean && gatsby build",
+    "buildprod": "npm run clean && gatsby build --prefix-paths",
+    "deploy": "npm run clean && gatsby build --prefix-paths && gh-pages -d public",
+    "serve": "gatsby serve",
+    "clean": "rimraf .cache public",
+    "format": "prettier --write '**/*.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cto.ai",
+    "ops",
+    "gatsby",
+    "gatsby-starter",
+    "gatsby-starter-resume"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cto-ai/gatsby-resume-template/issues"
+  },
+  "homepage": "https://github.com/cto-ai/gatsby-resume-template#readme"
+}
