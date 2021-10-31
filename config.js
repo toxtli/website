@@ -11,7 +11,7 @@ const FOOTER_URL = 'https://www.carlostoxtli.com';
 
 const BIO = `
   Carlos Toxtli is currently a Computer Science Ph.D. Candidate at Northeastern University where he is researching 
-  intelligent tools and bots to improve the future of crowd work. In the past, he has worked at Microsoft Research, 
+  intelligent tools to improve the Future of Work. In the past, he has worked at Microsoft Research, 
   Google Amazon, and the United Nations where he developed innovative tools to empower people through technology. 
   His research has been published in top venues and covered by news outlets. His passion for using AI to help 
   individuals grow at their job has led him to become a tech evangelist facilitating the continuous learning of 
