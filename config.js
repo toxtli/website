@@ -10,10 +10,14 @@ const EMAIL = 'me@carlostoxtli.com';
 const FOOTER_URL = 'https://www.carlostoxtli.com';
 
 const BIO = `
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-      Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt anim id est laborum.`;
+  Carlos Toxtli is currently a Computer Science Ph.D. Candidate at Northeastern University where he is researching 
+  intelligent tools and bots to improve the future of crowd work. In the past, he has worked at Microsoft Research, 
+  Google Amazon, and the United Nations where he developed innovative tools to empower people through technology. 
+  His research has been published in top venues and covered by news outlets. His passion for using AI to help 
+  individuals grow at their job has led him to become a tech evangelist facilitating the continuous learning of 
+  adults.  He has given more than one hundred talks in conferences around the world. He is also a serial 
+  entrepreneur, creating multiple startups focused on fin-tech, e-commerce, automation, bots, and education.
+`;
 
 const EXPERIENCE_LIST = [
   {
