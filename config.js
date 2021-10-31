@@ -125,10 +125,10 @@ module.exports = {
   manifestName: `${FIRST_NAME} ${LAST_NAME} Resume`,
   manifestShortName: 'Resume', // max 12 characters
   manifestStartUrl: '/',
-  manifestBackgroundColor: '#663399',
-  manifestThemeColor: '#663399',
+  manifestBackgroundColor: '#e84615',
+  manifestThemeColor: '#e84615',
   manifestDisplay: 'standalone',
-  manifestIcon: 'src/assets/images/cto-ai.png',
+  manifestIcon: 'src/assets/images/photo.jpg',
   pathPrefix: `/${REPOSITORY}`, // This path is subpath of your hosting https://domain/portfolio
   firstName: FIRST_NAME,
   lastName: LAST_NAME,
